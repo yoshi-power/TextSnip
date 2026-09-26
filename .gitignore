@@ -1,0 +1,12 @@
+*.exe
+*.exe.bak
+*.bak
+dist/
+*-test.txt
+english-ocr-install.txt
+ApplyUpdate.ps1
+*.zip
+*.log
+settings.txt
+.vs/
+TextSnip-publish-tools/
