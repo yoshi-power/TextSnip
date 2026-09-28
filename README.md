@@ -8,7 +8,9 @@ Windows에서 단축키로 화면 속 텍스트를 선택하고 바로 붙여넣
 
 ## 다운로드 및 시작
 
-GitHub **Releases**에서 `TextSnip-0.1.0-windows.zip`을 내려받으세요. 저장소의 **Code → Download ZIP**은 개발용 소스이며 실행 파일을 포함하지 않습니다.
+[Windows 실행용 ZIP 다운로드](https://github.com/yoshi-power/TextSnip/releases/download/v0.1.0/TextSnip-0.1.0-windows.zip) · [릴리스 및 변경 사항](https://github.com/yoshi-power/TextSnip/releases)
+
+위 실행용 ZIP을 내려받으세요. 저장소의 **Code → Download ZIP**은 개발용 소스이며 실행 파일을 포함하지 않습니다.
 
 1. ZIP을 모두 압축 해제합니다.
 2. `TextSnip/Start.cmd`를 실행합니다.
